@@ -9,9 +9,8 @@ void main()
     scanf("%d", &y);
     if (x>y){
         d = x-y;
-        printf("\nA diferença entre os numeros e %d", d);
     }else{
         d = y-x;
-        printf("\nA diferença entre os numeros e %d", d);
     }
+        printf("\nA diferença entre os numeros e %d", d);
 }
